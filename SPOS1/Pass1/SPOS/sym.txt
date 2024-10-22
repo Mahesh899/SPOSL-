@@ -1,0 +1,16 @@
+Symbol Table
+----------------
+Name  Address
+START   0
+MOVER   1
+MOVEM   2
+LOOP   3
+ADD   5
+BC   6
+NEXT   7
+LAST   9
+ORIGIN   10
+MULT   11
+A   13
+BACK   14
+B   15
